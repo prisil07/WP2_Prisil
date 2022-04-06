@@ -1,4 +1,6 @@
+
 <section> 
+<link rel="stylesheets" type="text/css" href="<?php echo base_url() ?>assets/css/stylebuku.css">
     <h1><?php echo $judul ?></h1>
 
     <p align=’justify’>Pada pengertian codeigniter di atas tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu
@@ -29,5 +31,4 @@
                 atau front-end developer tidak perlu lagi berhubungan dengan controller, dia hanya perlu berhubungan dengan view untuk mendesign tampilann aplikasi, karena back-end developer yang menangani bagian controller dan modelnya. 
                 Jadi pembagian tugas pun menjadi mudah dan pengembangan aplikasi dapat di lakukan dengan cepat dan terstruktur.</p>
 </selection>
-
-
+</html>
